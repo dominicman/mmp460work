@@ -1,0 +1,27 @@
+body{
+	font-family: Georgia, serif;
+	
+}
+.jumbotron{
+	background-color:#a3a3a3;
+	color: White;
+}
+
+body{
+	background-color:#E1E4E6\;
+	background-size: cover;
+}
+.headerImage{
+	background-image: url(images/header.jpg);
+	background-position: center center;
+	background-size: cover;
+	height:200px;
+}
+#mainColumn{
+	height:400px;
+	background-color:#ffffff;
+	height:700px;
+	line-height:1.5;
+	padding:15px 25px 250px 5px;
+
+}
